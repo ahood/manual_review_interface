@@ -4,7 +4,7 @@ give feedback at a high level while ensuring that
 * feedback is standardized, which is required to automate
   the merge/unmerge process
 * all needed feedback is collected, which is invaluable
-  for creating training sets
+  for creating training sets and evaluating performance
 * the feedback can immediately be used to update the
   database to fix any FPs or FNs, without needing to
   write any code
